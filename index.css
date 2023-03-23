@@ -1,12 +1,20 @@
 body {
     margin:0;
     padding:50px;
-    background-color:#4c4a4e;
-    font-family: 'Roboto Mono', monospace;
+    /*background-color:#4c4a4e;*/
+    background:linear-gradient(27deg, rgba(107,82,52,1) 0%, rgba(76,74,78,1) 100%);
+    /*font-family: 'Roboto Mono', monospace;*/
+    font-family: 'Rubik', sans-serif;
+    height:100vh;
 }
 
+.fw5 {font-weight:500;}
+.fw3 {font-weight:300;}
+.fw4 {font-weight:400;}
+
 .row {
-    margin-top:50px;
+    margin-top:20px;
+    margin-bottom:20px;
     margin-left:auto;
     margin-right:auto;
     height:50px;
@@ -35,4 +43,52 @@ body {
 
 .arrow-right img {
     opacity:0.75;
+}
+
+.row-triple {
+    margin-top:20px;
+    height:165px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.col-triple {
+    
+    float:left;
+    height:150px;
+    width:50px;
+}
+
+.col-triple div {
+    margin-bottom:5px;
+}
+
+
+.arrow-right-triple {
+    float:left;
+    width:30px;
+}
+
+.arrow-right-triple img {
+    margin-top:55px;
+}
+
+.row-text {
+    margin-top:10px;
+    margin-left:auto;
+    margin-right:auto;
+    line-height:20px;
+    color:#d6d6d6;
+    font-weight:600;
+    font-size:14px;
+}
+
+.row-header {
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-weight:600;
+    font-size:28px;
+    color:#e6a04a;
 }
