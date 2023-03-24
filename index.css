@@ -3,14 +3,14 @@ body {
     padding:50px;
     /*background-color:#4c4a4e;*/
     background:linear-gradient(27deg, rgba(107,82,52,1) 0%, rgba(76,74,78,1) 100%);
+    /*background:linear-gradient(20deg, rgba(61,107,52,1) 0%, rgb(36, 36, 36) 100%);*/
     /*font-family: 'Roboto Mono', monospace;*/
     font-family: 'Rubik', sans-serif;
     height:100vh;
 }
-
 .fw5 {font-weight:500;}
 .fw3 {font-weight:300;}
-.fw4 {font-weight:400;}
+.fw4 {font-weight:400;font-size:14px;}
 
 .row {
     margin-top:20px;
@@ -77,10 +77,10 @@ body {
     margin-top:10px;
     margin-left:auto;
     margin-right:auto;
-    line-height:20px;
+    line-height:22px;
     color:#d6d6d6;
     font-weight:600;
-    font-size:14px;
+    font-size:16px;
 }
 
 .row-header {
@@ -91,4 +91,14 @@ body {
     font-weight:600;
     font-size:28px;
     color:#e6a04a;
+}
+
+.row-subheader {
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-weight:600;
+    font-size:22px;
+    color:#d6d6d6;
 }
