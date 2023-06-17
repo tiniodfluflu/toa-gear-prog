@@ -1,0 +1,74 @@
+Item	Price	
+Twisted bow.png	Twisted bow	1,390,644,153
+Tumeken's shadow (uncharged).png	Tumeken's shadow (uncharged)	1,220,361,291
+Scythe of vitur (uncharged).png	Scythe of vitur (uncharged)	494,071,329
+3rd age longsword.png	3rd age longsword	433,052,430
+Torva platebody.png	Torva platebody	397,126,300
+Zaryte crossbow.png	Zaryte crossbow	370,764,569
+Ancestral robes set.png	Ancestral robes set	356,950,387
+Harmonised orb.png	Harmonised orb	345,217,419
+Nihil horn.png	Nihil horn	330,428,134
+Torva platelegs.png	Torva platelegs	329,059,249
+Masori armour set (f).png	Masori armour set (f)	234,058,943
+Torva full helm.png	Torva full helm	227,568,640
+Ancestral robe top.png	Ancestral robe top	170,131,634
+Zaryte vambraces.png	Zaryte vambraces	152,217,597
+Voidwaker.png	Voidwaker	149,752,571
+Ancestral robe bottom.png	Ancestral robe bottom	140,154,570
+Arcane spirit shield.png	Arcane spirit shield	133,347,760
+Masori body (f).png	Masori body (f)	120,691,430
+Bow of faerdhinen (inactive).png	Bow of faerdhinen (inactive)	101,562,989
+Masori chaps (f).png	Masori chaps (f)	90,536,393
+Sanguinesti staff (uncharged).png	Sanguinesti staff (uncharged)	89,443,135
+Masori body.png	Masori body	88,529,714
+Dragon claws.png	Dragon claws	87,483,391
+Avernic defender hilt.png	Avernic defender hilt	80,337,356
+Masori chaps.png	Masori chaps	66,572,503
+Ghrazi rapier.png	Ghrazi rapier	54,997,468
+Ancestral hat.png	Ancestral hat	45,256,916
+Dragon hunter lance.png	Dragon hunter lance	41,174,195
+Armadyl crossbow.png	Armadyl crossbow	38,732,647
+Pegasian boots.png	Pegasian boots	37,518,902
+Ranger boots.png	Ranger boots	37,157,627
+Dexterous prayer scroll.png	Dexterous prayer scroll	33,747,361
+Dragon warhammer.png	Dragon warhammer	31,191,264
+Armadyl chestplate.png	Armadyl chestplate	31,130,406
+Osmumten's fang.png	Osmumten's fang	30,579,791
+Bandos chestplate.png	Bandos chestplate	28,991,270
+Primordial boots.png	Primordial boots	26,748,397
+Armadyl chainskirt.png	Armadyl chainskirt	23,221,772
+Masori mask (f).png	Masori mask (f)	22,047,559
+Bandos tassets.png	Bandos tassets	19,471,657
+Basilisk jaw.png	Basilisk jaw	18,350,348
+Bandos godsword.png	Bandos godsword	17,641,312
+Twisted buckler.png	Twisted buckler	12,668,410
+Tormented bracelet.png	Tormented bracelet	12,398,372
+Justiciar faceguard.png	Justiciar faceguard	12,396,154
+Necklace of anguish.png	Necklace of anguish	12,349,210
+Amulet of torture.png	Amulet of torture	12,305,463
+Dragonfire ward.png	Dragonfire ward	9,849,369
+Armadyl helmet.png	Armadyl helmet	7,913,884
+Ahrim's armour set.png	Ahrim's armour set	7,633,803
+Blood shard.png	Blood shard	5,599,921
+Elidinis' ward.png	Elidinis' ward	4,672,694
+Crystal armour seed.png	Crystal armour seed	4,407,074
+Zamorakian hasta.png	Zamorakian hasta	4,259,137
+Ahrim's robetop.png	Ahrim's robetop	4,073,119
+Berserker ring.png	Berserker ring	3,787,412
+Lightbearer.png	Lightbearer	3,562,606
+Abyssal dagger (p).png	Abyssal dagger (p)	3,478,141
+Abyssal dagger (p+).png	Abyssal dagger (p+)	3,415,020
+Abyssal dagger (p++).png	Abyssal dagger (p++)	3,406,386
+Abyssal dagger.png	Abyssal dagger	3,390,492
+Ahrim's robeskirt.png	Ahrim's robeskirt	3,287,527
+Arcane prayer scroll.png	Arcane prayer scroll	2,960,78
+Eternal boots.png	Eternal boots	2,439,966
+Serpentine helm (uncharged).png	Serpentine helm (uncharged)	2,290,348
+Serpentine visage.png	Serpentine visage	2,217,009
+Accursed sceptre (au).png	Accursed sceptre (au)	1,932,519
+Accursed sceptre (u).png	Accursed sceptre (u)	1,895,955
+Amulet of fury.png	Amulet of fury	1,863,488
+Dragon crossbow (u).png	Dragon crossbow (u)	1,736,194
+Thammaron's sceptre (au).png	Thammaron's sceptre (au)	1,700,022
+Dragon pickaxe.png	Dragon pickaxe	1,700,017
+Thammaron's sceptre (u).png	Thammaron's sceptre (u)	1,653,171
